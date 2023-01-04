@@ -1,5 +1,54 @@
 /* Harrison Busby Section */
 
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.backHeroImg1{
+    background-image: url(./Assets/Brick.jpg);
+}
+.backHeroImg2{
+    background-image: url(./Assets/GrillBill.png);
+    display: fit;
+}
+.background1{
+    background-color: black;
+    opacity: .6;
+
+}
+
+.font1{
+    color: white;
+    opacity: 1;
+
+
+}
+.headingColor{
+    color: red;
+    opacity: 1;
+}
+
+
+
+
+
+
 /* Brandon Le Section */
 
+
+
+
+
+
+
+
+
 /* Kent Tupas Section */
+
+
+
+
+
+
+
