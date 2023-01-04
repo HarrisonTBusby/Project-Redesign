@@ -10,23 +10,43 @@
 }
 .backHeroImg2{
     background-image: url(./Assets/GrillBill.png);
-    display: fit;
+   background-size: cover;
+   height: 600px;
 }
 .background1{
     background-color: rgba(0, 0, 0, .6)
     
-
+}
+.bodyBackground{
+    background-color: black;
 }
 
-.font1{
+
+@font-face {
+    font-family: CormorantGaramondRegular;
+    src: url(./Fonts/CormorantGaramond-Regular.ttf);
+   }
+
+@font-face {
+    font-family: CormorantGaramondBold;
+    src: url(./Fonts/CormorantGaramond-Bold.ttf);
+}
+@font-face {
+    font-family: ProzaLibreRegular;
+    src: url(./Fonts/ProzaLibre-Regular.ttf);
+}
+@font-face {
+    font-family: ProzaLibraBold;
+    src: url(./Fonts/ProzaLibre-Bold.ttf);
+}
+
+   .font1{
     color: white;
-   
-
-
-}
+    font-family: CormorantGaramondRegular;
+   }
 .headingColor{
     color: red;
-    
+    font-family: ProzaLibreBold;
 }
 
 
