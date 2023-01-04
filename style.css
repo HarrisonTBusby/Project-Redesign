@@ -11,7 +11,11 @@
 .backHeroImg2{
     background-image: url(./Assets/GrillBill.png);
    background-size: cover;
-   height: 400px;
+   height: auto;
+}
+
+.fillAuto{
+    height: auto;
 }
 .background1{
     background-color: rgba(0, 0, 0, .6)
