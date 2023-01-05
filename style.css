@@ -18,9 +18,12 @@
     height: auto;
 }
 .background1{
-    background-color: rgba(0, 0, 0, .6)
+    background-color: rgba(0, 0, 0, .6);
+    
+
     
 }
+
 .bodyBackground{
     background-color: black;
 }
@@ -54,9 +57,19 @@
     color: red;
     font-family: ProzaLibreBold;
     font-size: 50px;
-    text-align: left;
+    
 }
 
+.testLine{
+    border-top: 3px solid #FFFF;
+    display: block;
+    width: 210px;
+    align-content: left ;
+}
+
+.alignRight{
+    text-align: right;
+}
 
 
 
