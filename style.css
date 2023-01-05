@@ -19,13 +19,14 @@
 }
 .background1{
     background-color: rgba(0, 0, 0, .6);
-    
+
 
     
 }
 
 .bodyBackground{
     background-color: black;
+
 }
 
 
@@ -65,6 +66,12 @@
     display: block;
     width: 210px;
     align-content: left ;
+}
+.line2{
+    border-bottom: 3px solid #FFFF;
+    display: block;
+    width: 210px;
+  
 }
 
 .alignRight{
