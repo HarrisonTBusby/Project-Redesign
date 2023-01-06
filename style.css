@@ -173,9 +173,16 @@ font-size: 50px;
 .topLine{
     border-top: 7px solid #FFFF;
     display: block;
-    width: 500px;
+    width: 38%;
     margin-left: 100px;
+   
+    
 }
+
+.topPaddingTime{
+    padding-top: 5%;
+}
+
 .bbqFont{
     font-size: 45px;
     color: white;
