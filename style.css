@@ -135,18 +135,43 @@ body, html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    
   }
 
+.menutitle{
+ text-align: center;
+ padding-top: 6%;
+ margin-right: 80%;
+ color: white;
+}
+  
+
   .btn{
-   margin-left: 15%;
-   margin-top: 20%; 
+    align-items: center;
+   margin-left: 14%;
+   margin-top: 10%; 
+   background-color: white;
+   opacity: 60%;
+   color: black;
 }
 
-.container{
-    display: flex;
-    justify-items: space-between;
+.card{
+    background-color: black;
+    opacity: 83%;
+    width: 40%;
+    color: white;
+    margin-right: 10%;
+    width: 100%;
+
 }
+
+
+
+.menuItems1{
+    margin-top: 1%;
+    
+}
+
+
   
   
 
