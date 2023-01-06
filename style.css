@@ -33,7 +33,7 @@
 }
 .yelpBG{
     background-image: url("./Assets/WoodAgain.jpg");
-    padding-bottom: 50%;
+    padding-bottom: 10%;
     max-width: 100%;
     display: flex;
     background-size: cover;
@@ -55,6 +55,13 @@
     margin-top: -20px;
 }
 /* End Footer */
+/* Carousel Styles Start*/
+.carouselRow{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+/* Carousel Styles End */
 /* End Brandon's Styles */
 
 
