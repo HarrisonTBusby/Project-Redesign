@@ -180,8 +180,12 @@ font-size: 50px;
     font-size: 45px;
     color: white;
     font-family: CormorantGaramondBold;
-    margin-left: 125px;
+    margin-left: 75px;
+    width: 100%;
     
+}
+.textAlignCorrect{
+    text-align: justify;
 }
 .yelpBG{
     background-image: url("./Assets/WoodAgain.jpg");
