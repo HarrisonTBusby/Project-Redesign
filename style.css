@@ -157,6 +157,13 @@ font-size: 50px;
     color: white;
 }
 /* End Styles that I can re use */
+/* NavBar Styles Start */
+.nav-link{
+    font-family: CormorantGaramondRegular;
+    font-size: 40px;
+    display: flex;
+}
+/* NavBar Styles End */
 /* Start Home Page Styles */
 .homePageGif {
     background-image: url("./Assets/smallergrill.gif");
@@ -179,9 +186,11 @@ font-size: 50px;
 /* Start Footer */
 .footerText{
     font-size: 22px;
+    font-family: ProzaLibreRegular;
 }
 .footerText2{
     font-size: 8px;
+    font-family: ProzaLibreRegular;
 }
 .footerSpace2{
     display: flex;
