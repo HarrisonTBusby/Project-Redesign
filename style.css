@@ -137,6 +137,15 @@ body, html {
     background-size: cover;
   }
 
+
+  .btnKent{
+    align-items: center;
+   margin-left: 14%;
+   margin-top: 10%; 
+   background-color: white;
+   opacity: 60%;
+   color: black;
+}
 .menutitle{
  text-align: center;
  padding-top: 6%;
@@ -145,30 +154,27 @@ body, html {
 }
   
 
-  .btn{
-    align-items: center;
-   margin-left: 14%;
-   margin-top: 10%; 
-   background-color: white;
-   opacity: 60%;
-   color: black;
-}
-
 .card{
     background-color: black;
     opacity: 83%;
     width: 40%;
     color: white;
     margin-right: 10%;
-    width: 100%;
+   
 
 }
-
-
 
 .menuItems1{
     margin-top: 1%;
     
+}
+
+.card-text1{
+    text-align: right;
+}
+
+.card-title{
+    text-align: right; 
 }
 
 
