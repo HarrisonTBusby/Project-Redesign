@@ -157,6 +157,10 @@ margin-left: 5rem;
 
 /* Start Brandon's Styles */
 /* Start Styles that I can re use */
+.nav-link{
+    font-family:CormorantGaramondRegular;
+    font-size: 50px;
+}
 .blackBG{
     background: black;
 }
