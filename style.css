@@ -29,6 +29,9 @@
 
     
 }
+.background2{
+    background-color: rgba(0, 0, 0, .8);
+}
 
 .bodyBackground{
     background-color: black;
@@ -104,7 +107,7 @@ font-size: 50px;
 .menuTextFunTime2{
     color: #FFFF;
     font-family: ProzaLibreRegular;
-    font-size: 30px;
+    font-size: 24px;
 }
 .menuTextFunTime3{
     color: rgba(190, 36, 24, 1);
@@ -118,6 +121,28 @@ font-size: 50px;
 }
 .spaceBetween{
     align-content: space-between;
+}
+
+.marginServe{
+    margin-bottom: 200px;
+}
+
+.paddingTop{
+    
+    padding-top: 175px;
+    padding-bottom: 175px;
+}
+.btnWidth{
+    width: 125px;
+    height: 60px;
+    background-color: rgba(190, 36, 24, 1);
+    color: #FFFF;
+    font-family: ProzaLibreBold;
+    font-size: 30px;
+    
+    
+    
+
 }
 
 
@@ -179,7 +204,7 @@ body, html {
     
   }
 
-  .btn{
+  .btnKent{
    margin-left: 15%;
    margin-top: 20%; 
 }
