@@ -1,46 +1,50 @@
 /* Harrison Busby Section */
-.center{
-    display: flex;
-    justify-content: center;
-}
 
-.backHeroImg1{
-    background-image: url(./Assets/Brick.jpg);
-}
-.backHeroImg2{
-    background-image: url(./Assets/GrillBill.png);
-    display: fit;
-}
-.background1{
-    background-color: rgba(0, 0, 0, .6)
-    
 
-}
 
-.font1{
+/* Start Brandon's Styles */
+/* Start Styles that I can re use */
+.blackBG{
+    background: black;
+}
+.whiteFont{
     color: white;
-   
-
+}
+/* End Styles that I can re use */
+/* Start Home Page Styles */
+.homePageGif {
+    background-image: url("./Assets/Untitled.gif");
+    padding-bottom: 50%;
+    max-width: 100%;
+    display: flex;
+    background-size: cover;
+    overflow: hidden;
 
 }
-.headingColor{
-    color: red;
-    
+.yelpBG{
+    background-image: url("./Assets/WoodAgain.jpg");
+    padding-bottom: 50%;
+    max-width: 100%;
+    display: flex;
+    background-size: cover;
+    overflow: hidden;
 }
-
-/* Brandon Le Section */
-
-
+/* End Home Page Styles */
+/* Start Footer */
+.footerText{
+    font-size: 16px;
+}
+.footerText2{
+    font-size: 12px;
+}
+/* End Footer */
+/* End Brandon's Styles */
 
 
 
 
 
 /* Kent Tupas Section */
-
-
-
-
 
 
 
