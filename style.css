@@ -4,23 +4,6 @@
 
 /* Start Brandon's Styles */
 /* Start Styles that I can re use */
-@font-face {
-    font-family: CormorantGaramondRegular;
-    src: url(./Fonts/CormorantGaramond-Regular.ttf);
-   }
-@font-face {
-    font-family: CormorantGaramondBold;
-    src: url(./Fonts/CormorantGaramond-Bold.ttf);
-}
-@font-face {
-    font-family: ProzaLibreRegular;
-    src: url(./Fonts/ProzaLibre-Regular.ttf);
-}
-@font-face {
-    font-family: ProzaLibraBold;
-    src: url(./Fonts/ProzaLibre-Bold.ttf);
-
-}
 .blackBG{
     background: black;
 }
