@@ -103,6 +103,7 @@
 color: #FFFF;
 font-family: CormorantGaramondBold;
 font-size: 50px;
+margin-left: 5rem;
 }
 .menuTextFunTime2{
     color: #FFFF;
@@ -122,6 +123,8 @@ font-size: 50px;
 .spaceBetween{
     align-content: space-between;
 }
+
+
 
 .marginServe{
     margin-bottom: 200px;
@@ -177,6 +180,13 @@ font-size: 50px;
     margin-left: 100px;
    
     
+}
+
+.topLine2{
+    border-top: 7px solid #FFFF;
+    display: block;
+    width: 20%;
+    margin-left: 100px;
 }
 
 .topPaddingTime{
