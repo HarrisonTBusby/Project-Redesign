@@ -14,6 +14,12 @@
    height: auto;
 }
 
+.backHeroImg3{
+    background-image: url(./Assets/Catering.jpg);
+    background-size: cover;
+    width: auto;
+}
+
 .fillAuto{
     height: auto;
 }
@@ -94,6 +100,24 @@
 color: #FFFF;
 font-family: CormorantGaramondBold;
 font-size: 50px;
+}
+.menuTextFunTime2{
+    color: #FFFF;
+    font-family: ProzaLibreRegular;
+    font-size: 30px;
+}
+.menuTextFunTime3{
+    color: rgba(190, 36, 24, 1);
+    font-family: ProzaLibreRegular;
+    font-size: 20px;
+}
+.menuTextFunTime4{
+    color: #FFFF;
+    font-family: CormorantGaramondRegular;
+    font-size: 30px;
+}
+.spaceBetween{
+    align-content: space-between;
 }
 
 
