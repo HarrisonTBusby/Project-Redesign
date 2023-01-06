@@ -34,8 +34,50 @@
 
 
 
-/* Brandon Le Section */
+/* Start Brandon's Styles */
+/* Start Styles that I can re use */
+.blackBG{
+    background: black;
+}
+.whiteFont{
+    color: white;
+}
+/* End Styles that I can re use */
+/* Start Home Page Styles */
+.homePageGif {
+    background-image: url("./Assets/smallergrill.gif");
+    padding-bottom: 50%;
+    max-width: 100%;
+    display: flex;
+    background-size: cover;
+    overflow: hidden;
 
+}
+.yelpBG{
+    background-image: url("./Assets/WoodAgain.jpg");
+    padding-bottom: 50%;
+    max-width: 100%;
+    display: flex;
+    background-size: cover;
+    overflow: hidden;
+}
+/* End Home Page Styles */
+/* Start Footer */
+.footerText{
+    font-size: 22px;
+}
+.footerText2{
+    font-size: 8px;
+}
+.footerSpace2{
+    display: flex;
+    margin-top: -11px;
+}
+.footerSpace2right{ 
+    margin-top: -20px;
+}
+/* End Footer */
+/* End Brandon's Styles */
 
 
 
